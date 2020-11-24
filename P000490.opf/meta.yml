@@ -3,5 +3,132 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159529
   title: ཀྲུང་གོའི་བོད་རིག་པ།（རྒྱ་ཡིག་）
-  volume: ''
+  volume:
+    48ba3e6e0b2d4b82b98accaa57293c45:
+      image_group_id: I4PD4156
+      title: Volume 1 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 1
+      total_pages: 134
+    3c1f86d7b3c8415b8e04eee87355ca37:
+      image_group_id: I4PD4157
+      title: Volume 2 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 2
+      total_pages: 178
+    3dd54933a7f44b1bb7aabcb9a45e9393:
+      image_group_id: I4PD4158
+      title: Volume 3 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 3
+      total_pages: 182
+    557f754cb4334bcca8dea7d33c20fdfe:
+      image_group_id: I4PD4159
+      title: Volume 4 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 4
+      total_pages: 134
+    1dd6ea22345e4d528e8a184b1926bd3b:
+      image_group_id: I4PD4160
+      title: Volume 5 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 5
+      total_pages: 266
+    363fb713c3704687afcdcce6dfadef9b:
+      image_group_id: I4PD4161
+      title: Volume 6 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 6
+      total_pages: 150
+    83372cec343147f6b564c0ac0ea25a04:
+      image_group_id: I4PD4162
+      title: Volume 7 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 7
+      total_pages: 264
+    7009393665524316ad8fde8a36820fca:
+      image_group_id: I4PD4163
+      title: Volume 8 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 8
+      total_pages: 166
+    f0eef9733fe74f3aad22b5fd70ab3148:
+      image_group_id: I4PD4164
+      title: Volume 9 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 9
+      total_pages: 264
+    9017aa32e94f4042ac1b59e18c03865e:
+      image_group_id: I4PD4165
+      title: Volume 10 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 10
+      total_pages: 150
+    6c5e8f338419488f99107545bbea0aa2:
+      image_group_id: I4PD4166
+      title: Volume 11 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 11
+      total_pages: 264
+    787be55223034186a0908871cd5105a9:
+      image_group_id: I4PD4167
+      title: Volume 12 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 12
+      total_pages: 150
+    4abd49e791b34c9595a5ec755fd558b5:
+      image_group_id: I4PD4168
+      title: Volume 13 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 13
+      total_pages: 150
+    6e665221467941569ad2aeaa0e8dd13f:
+      image_group_id: I4PD4169
+      title: Volume 14 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 14
+      total_pages: 150
+    194fd80c1fe64fd4a029261cab048285:
+      image_group_id: I4PD4170
+      title: Volume 15 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 15
+      total_pages: 238
+    44619b7e456c4a879270d11b00873be2:
+      image_group_id: I4PD4171
+      title: Volume 16 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 16
+      total_pages: 182
+    823209c28c4e4264bc3066eb455c3b67:
+      image_group_id: I4PD4172
+      title: Volume 17 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 17
+      total_pages: 198
+    a1f95213765f4801b39fc59c5756f14d:
+      image_group_id: I4PD4173
+      title: Volume 18 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 18
+      total_pages: 266
+    c58c70c1163d4ba1ba69c5a85b5f7cce:
+      image_group_id: I4PD4174
+      title: Volume 19 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 19
+      total_pages: 194
+    8abd8b6f19e24d189ed2d87c355a6806:
+      image_group_id: I4PD4175
+      title: Volume 20 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 20
+      total_pages: 166
+    804c1aa6115241c7b90af636e9cd47d9:
+      image_group_id: I4PD4176
+      title: Volume 21 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 21
+      total_pages: 208
+    2cd72ced2b9e4c38aceeb2d4614bc487:
+      image_group_id: I4PD4177
+      title: Volume 22 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 22
+      total_pages: 264
+    1834de3d60e94bb3b0cd56e5fa1aced6:
+      image_group_id: I4PD4178
+      title: Volume 23 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 23
+      total_pages: 226
+    5555188da06241ab98910db050994e28:
+      image_group_id: I4PD4179
+      title: Volume 24 of krung go'i bod rig pa/（rgya yig ）
+      volume_number: 24
+      total_pages: 206
   author: ''
+ebook_metadata:
+  title: ཀྲུང་གོའི་བོད་རིག་པ།（རྒྱ་ཡིག་）
+  author: ''
+  sku: P000490
+  cover: cover.jpg
+  layers:
+  - pagination
