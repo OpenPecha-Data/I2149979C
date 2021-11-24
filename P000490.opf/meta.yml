@@ -1,5 +1,7 @@
 id: P000490
 initial_creation_type: ocr
+created_at: 23/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1PD159529
   title: ཀྲུང་གོའི་བོད་རིག་པ།（རྒྱ་ཡིག་）
@@ -149,10 +151,3 @@ source_metadata:
       volume_number: 24
       total_pages: 206
       base_file: v024.txt
-ebook_metadata:
-  title: ཀྲུང་གོའི་བོད་རིག་པ།（རྒྱ་ཡིག་）
-  author: ''
-  sku: P000490
-  cover: cover.jpg
-  layers:
-  - pagination
